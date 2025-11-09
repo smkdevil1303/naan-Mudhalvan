@@ -16,4 +16,4 @@ Team member : Selvarani P
 
 Team member : Sibiraj N
 
-Demo Vedio Link: https://drive.google.com/file/d/10zBiEK4IzVaLHelNK3niVxwfXYqCRYgd/view?usp=drive_link
+Demo Vedio Link: https://drive.google.com/file/d/10zBiEK4IzVaLHelNK3niVxwfXYqCRYgd/view?usp=sharing
